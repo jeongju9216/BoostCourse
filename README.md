@@ -8,8 +8,12 @@
 
 # 프로젝트 종류
 
-## Music Player (진행 중)
+## Music Player (PASS)
 
 음원 재생기 애플리케이션입니다.
 
 MusicPlayer.md 에 기록됩니다.
+
+## Sign Up (진행 중)
+회원 가입 애플리케이션입니다.
+SignUp.md에 기록됩니다.
