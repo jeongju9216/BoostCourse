@@ -1,6 +1,12 @@
 - # Music Player
 
   네이버 부스트코스의 프로젝트 A (http://www.boostcourse.org/mo326/lecture/256081)
+  
+  # 블로그 포스팅
+  - 1편 사전 탐구 : https://jeong9216.tistory.com/144
+  - 2편 화면 구성 : https://jeong9216.tistory.com/145
+  - 3편 기능 구현 : https://jeong9216.tistory.com/147
+  - 4편 오토 레이아웃 구성 : https://jeong9216.tistory.com/149
 
   # 프로젝트 분석
 
