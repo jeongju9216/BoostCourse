@@ -14,6 +14,13 @@
 
 MusicPlayer.md 에 기록됩니다.
 
-## Sign Up (진행 중)
+## Sign Up (코드 리뷰 중)
+
 회원 가입 애플리케이션입니다.
+
 SignUp.md에 기록됩니다.
+
+## Weather Today (진행 중)
+
+세계 날씨 애플리케이션입니다.
+WeatherToday.md에 기록됩니다.
