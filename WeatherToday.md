@@ -78,3 +78,19 @@ JSON 데이터를 활용하여 날씨 정보를 보여주고 내비게이션 컨
 - 화면 3
     - [추가] 레이아웃 작업
     - [추가] 데이터 표시
+
+## 2021-12-20
+- 코드 리뷰 적용
+- Models
+    - Country: flagName 변수 생성
+    - City: enum을 이용해 가독성 개선
+    - Temperature: 객체 지향성 개선
+    
+- Controllers
+    - CountryViewController
+        - flagName을 Country의 Computed 변수로 수정. 데이터 가공은 Model에서 하기
+    - CityViewController
+        - temperature, weather 등 수정 적용
+        - UI 변경을 viewDidLoad()에서 변경.
+    - CityDetailsViewController
+        - UI 변경을 viewDidLoad()로 변경
