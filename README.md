@@ -2,10 +2,7 @@
 
 네이버 부스트코스 기록입니다.   
 부스트 코스의 규칙으로 인해 프로젝트 Repository는 private로 진행됩니다.  
-
-해당 Repository에는 부스트코스 프로젝트 내용과 진행 사항을 기록합니다.  
-
-<u></u>
+해당 Repository에는 부스트코스 프로젝트 내용과 진행 사항을 기록합니다.
 
 # 프로젝트 종류
 
@@ -42,5 +39,5 @@ WeatherToday.md에 기록됩니다.
 ### 블로그 포스팅 
 - 사전 탐구 https://jeong9216.tistory.com/164
 - 화면 구성 https://jeong9216.tistory.com/179
-- 기능 구현 (작성 예정)
+- 기능 구현 https://jeong9216.tistory.com/183
 - 코드 리뷰 (작성 예정)
