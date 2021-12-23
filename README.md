@@ -40,4 +40,4 @@ WeatherToday.md에 기록됩니다.
 - 사전 탐구 https://jeong9216.tistory.com/164
 - 화면 구성 https://jeong9216.tistory.com/179
 - 기능 구현 https://jeong9216.tistory.com/183
-- 코드 리뷰 (작성 예정)
+- 코드 리뷰 https://jeong9216.tistory.com/185
